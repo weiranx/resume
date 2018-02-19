@@ -1,59 +1,73 @@
-# Weiran Xiong
+**WEIRAN XIONG**
 
 Learner, Responsibility, Activator, Achiever, Analytical
 
-213 - 284 - 8160
+213-284-8160
 
-weiranxiong@gmail.com
+[weiranxiong@gmail.com](mailto:weiranxiong@gmail.com)
 
-## Education
+https://weiranxiong.me
 
-B.S. in University of California, San Diego in Mathematics – Computer Science
+Education
 
-## Technical courses currently taking:
-- CSE 12
-- CSE 15L
-- CSE 11
+Currently freshman at University of California, San Diego, majoring in
 
+**Mathematics – Computer Science**
 
-## Self-Studying Topics:
+_Courses Currently Taking or Taken:_
 
-- Python Programming
-- Node.js
-- Design
-- Machine Learning
+**CSE 11 – Intro to Java Programming**
 
-## Skills
+**CSE 12 – Basic Data Structure and Object-Oriented Design**
 
-- iOS Developer
+**CSE 15L – Software Tools and Techniques Lab**
 
-- Web Developer
+_Self-Studying Topics:_
 
-- Back-end Developer
+**Python Programming**
 
-- UI/UX Designer
+**Node.js**
 
-## Experiences and Projects
+**Design**
 
-### • Committee member of UCSD Extension program Teach High School Students Coding
+**Machine Learning**
 
-### • Participants of SD Hacks and SB Hacks
+Skills
 
-### • Summer internship at Robotics Intelligence Lab of Fudan University
+- **iOS Developer**
+- **Web Developer (React)**
+- **Back-end Developer (Node.js)**
+- **UI/UX Designer**
 
-- Intern, involved in **programming work of multi-joint robot dance moves, and**
-    **translating technological documentations from English to Chinese.**
-- Assistant of daily lab administration
+-
+- Experiences and Projects
 
-## Volunteer Experience
+- Committee member in **UCSD Extension** program to **teach local high school students to code**
+  - Design curriculum for teaching **web development, iOS development**
+  - Beginning to help instructors in Spring, 2018
 
-### Alternative Break @ UCSD
+-
 
-Volunteer Teacher, @ Chiang Mai, Thailand
+- Summer internship at Robotics Intelligence Lab of Fudan University, China
 
-### Hobbies and Interests
+- Intern, involved in **programming work of multi-joint robot dance moves, and translating technological documentations from English to Chinese.**
+- Assistant of daily **lab administration  **
 
-Travel, Netflix, Learning New Stuff, Gym, Trying different food, Table tennis, Hiking...
+-
 
+- **Mobile and web development**
 
+- Developed an **iOS app** to help high school students to better memorize for SAT vocabulary.
+- Knowing how to deploy web apps using **React, Node.js**. Created a **server** to help log weather report on a database for an Oceanography seminar.
 
+-
+- Volunteer Experiences
+- Alternative Break @ UCSD
+- Volunteer work at Canyonlands, San Diego
+- **Environmental responsibility, teamwork, and reflection**
+- Volunteer Teacher @ Chiang Mai, Thailand
+- Teaches English at an elementary school at an elementary school in Chiang Mai, Thailand
+- **Leadership, teamwork, adaptability, and creativity**
+-
+- Hobbies and Interests
+- Travel, Learning New Stuff, Gym, Trying different food, Netflix, Table tennis, Hiking…
